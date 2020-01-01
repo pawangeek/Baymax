@@ -46,8 +46,8 @@ This application is written using Python 3.6.
 
 ### Screenshots
 
-![Initial page](https://github.com/pawangeek/Baymax/tree/master/Images/e1.png)
-![Gender selection](https://github.com/pawangeek/Baymax/tree/master/Images/e2.png)
-![Symptoms Selection 1](https://github.com/pawangeek/Baymax/tree/master/Images/e3.png)
-![Symptoms Selection 2](https://github.com/pawangeek/Baymax/tree/master/Images/e4.png)
-![Related Diseases](https://github.com/pawangeek/Baymax/tree/master/Imagese5.png)
+![Initial page](/Images/e1.png)
+![Gender selection](/Images/e2.png)
+![Symptoms Selection 1](/Images/e3.png)
+![Symptoms Selection 2](/Images/e4.png)
+![Related Diseases](/Imagese5.png)
