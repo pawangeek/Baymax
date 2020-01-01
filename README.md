@@ -5,7 +5,7 @@
 ### Problem Statement
 Many under privilaged people in India don't have access to proper healthcare. People dont visit doctors for menial symptoms. Further google search provides drastic results.
 
-### Soultiion Statement
+### Soultion Statement
 Baymax, a healthcare assistant will provide first hand prognosis for symptoms. By no way its a replacement for doctors but its a quick handy and free way for correct detection.
 
 ### Overview
@@ -46,8 +46,8 @@ This application is written using Python 3.6.
 
 ### Screenshots
 
-![Initial page](/Code_sprinters/Images/e1.png)
-![Gender selection](/Code_sprinters/Images/e2.png)
-![Symptoms Selection 1](/Code_sprinters/Images/e3.png)
-![Symptoms Selection 2](/Code_sprinters/Images/e4.png)
-![Related Diseases](/Code_sprinters/Images/e5.png)
+![Initial page](/Baymax/tree/master/Images/e1.png)
+![Gender selection](/Baymax/tree/master/Images/e2.png)
+![Symptoms Selection 1](/Baymax/tree/master/Images/e3.png)
+![Symptoms Selection 2](/Baymax/tree/master/Images/e4.png)
+![Related Diseases](/Baymax/tree/master/Images/e5.png)
