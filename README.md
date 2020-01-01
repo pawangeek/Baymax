@@ -50,4 +50,4 @@ This application is written using Python 3.6.
 ![Gender selection](/Images/e2.png)
 ![Symptoms Selection 1](/Images/e3.png)
 ![Symptoms Selection 2](/Images/e4.png)
-![Related Diseases](/Imagese5.png)
+![Related Diseases](/Images/e5.png)
